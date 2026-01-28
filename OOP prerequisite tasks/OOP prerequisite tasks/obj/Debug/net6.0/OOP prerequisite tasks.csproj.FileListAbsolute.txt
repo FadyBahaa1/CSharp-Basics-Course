@@ -1,0 +1,21 @@
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\OOP prerequisite tasks.exe
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\OOP prerequisite tasks.deps.json
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\OOP prerequisite tasks.runtimeconfig.json
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\OOP prerequisite tasks.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\OOP prerequisite tasks.pdb
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\bin\Debug\net6.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.csproj.AssemblyReference.cache
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.AssemblyInfoInputs.cache
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.AssemblyInfo.cs
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.csproj.CoreCompileInputs.cache
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.csproj.CopyComplete
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\refint\OOP prerequisite tasks.dll
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.pdb
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\OOP prerequisite tasks.genruntimeconfig.cache
+C:\Users\fady.bahaa\source\repos\OOP prerequisite tasks\OOP prerequisite tasks\obj\Debug\net6.0\ref\OOP prerequisite tasks.dll
