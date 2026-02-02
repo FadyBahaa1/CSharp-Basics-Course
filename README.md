@@ -36,6 +36,14 @@ The **OOP prerequisite tasks** are implemented as separate C# source files (Task
 
 ---
 
+## 🧪 Draft Practice
+
+The `Draft` folder contains experimental and practice code written during learning.  
+It is not intended to represent final or polished solutions.
+
+
+---
+
 ## 🛠️ Technologies Used
 
 - C#
